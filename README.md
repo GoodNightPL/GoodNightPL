@@ -6,6 +6,7 @@
 - C#: Begginer
 - JavaScript: Begginer
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GoodNightPL)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 GoodNightPL/GoodNightPL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
