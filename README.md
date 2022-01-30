@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @GoodNightPL
 - 👀 I’m interested in software engineering.
-- 🌱 I’m currently learning Python, C# and JavaScript.
+- 🌱 I’m currently learning Python, Lua, C# and JavaScript.
 - 📝 My knowledge level of programming languages:
 - Python: Intermediate
+- Lua: Intermediate
 - C#: Begginer
 - JavaScript: Begginer
 
