@@ -4,7 +4,7 @@
 - 📝 My knowledge level of programming languages:
 - Python: Intermediate
 - Lua: Intermediate
-- C#: Begginer
+- C++: Begginer
 - JavaScript: Begginer
 
 ![GoodNightPL's GitHub stats](https://github-readme-stats.vercel.app/api?username=GoodNightPL&show_icons=true&theme=radical)
