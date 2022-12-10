@@ -6,6 +6,7 @@
 - Lua: Intermediate
 - C++: Begginer
 - JavaScript: Begginer
+- PHP: Begginer
 
 ![GoodNightPL's GitHub stats](https://github-readme-stats.vercel.app/api?username=GoodNightPL&show_icons=true&theme=radical)
 
