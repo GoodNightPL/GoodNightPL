@@ -4,7 +4,7 @@
 - 📝 My knowledge level of programming languages:
 - Python: Intermediate
 - Lua: Intermediate
-- C++: Begginer
+- C++: Intermediate
 - JavaScript: Begginer
 - PHP: Begginer
 
