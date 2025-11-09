@@ -1,12 +1,5 @@
 - 👋 Hi, I’m @GoodNightPL
 - 👀 I’m interested in software engineering.
-- 🌱 I’m currently learning C++.
-- 📝 My knowledge level of programming languages:
-- Python: Intermediate
-- Lua: Intermediate
-- C++: Intermediate
-- JavaScript: Begginer
-- PHP: Begginer
 
 ![GoodNightPL's GitHub stats](https://github-readme-stats.vercel.app/api?username=GoodNightPL&show_icons=true&theme=radical)
 
