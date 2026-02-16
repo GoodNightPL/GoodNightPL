@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @GoodNightPL
-- 👀 I’m interested in software engineering.
 
-![GoodNightPL's GitHub stats](https://github-readme-stats.vercel.app/api?username=GoodNightPL&show_icons=true&theme=radical)
+
 
 
 <!---
